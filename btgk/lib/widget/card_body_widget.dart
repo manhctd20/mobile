@@ -35,6 +35,9 @@ class CardBody extends StatelessWidget {
                       fontSize: 20,
                       color: Color(0xff4B4B4B),
                       fontWeight: FontWeight.bold)),
+              
+              
+
               InkWell(
                 onTap: () async {
                   if (await confirm(context)) {
