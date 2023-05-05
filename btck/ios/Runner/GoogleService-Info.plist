@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>910246390414-lb29f26c9pdsjd4doisichbe6h5888a6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.910246390414-lb29f26c9pdsjd4doisichbe6h5888a6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCC9PEDc0r-4VROPOxn0YO4IJthm40VYeM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>910246390414</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.btck</string>
+	<key>PROJECT_ID</key>
+	<string>app-taxi-f6042</string>
+	<key>STORAGE_BUCKET</key>
+	<string>app-taxi-f6042.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:910246390414:ios:093ee4e548fd688612f7df</string>
+</dict>
+</plist>
