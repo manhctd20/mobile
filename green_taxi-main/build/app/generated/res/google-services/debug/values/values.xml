@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">445112119879-5sfnupinmo1p1tcbdrsepornb8cg8qsp.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">445112119879</string>
+    <string name="google_api_key" translatable="false">AIzaSyAEqU9che1Akx4Eg4N5IRLjVTPMBeJVQ88</string>
+    <string name="google_app_id" translatable="false">1:445112119879:android:19adf9c1049f500df23762</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAEqU9che1Akx4Eg4N5IRLjVTPMBeJVQ88</string>
+    <string name="google_storage_bucket" translatable="false">taxi-e06d8.appspot.com</string>
+    <string name="project_id" translatable="false">taxi-e06d8</string>
+</resources>
